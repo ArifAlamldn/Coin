@@ -6,6 +6,7 @@ document.getElementById("path-btn").addEventListener("click", function() {
     animateText("Chat");
 });
 
+
 function animateText(newText) {
     let text = document.getElementById("animated-text");
     text.style.opacity = "0";
