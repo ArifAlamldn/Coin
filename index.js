@@ -5,6 +5,7 @@ document.getElementById("chat-btn").addEventListener("click", function() {
 
 
 
+
 document.getElementById("path-btn").addEventListener("click", function() {
     animateText("Chat");
 });
